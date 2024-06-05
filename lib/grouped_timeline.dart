@@ -3,8 +3,8 @@ import 'package:grouped_list/grouped_list.dart';
 
 class TimeLine extends StatelessWidget {
   /// TimeLineInfo model for each timeline
-  List<TimeLineInfo> timeLineInfo;
-  TimeLine({super.key, required this.timeLineInfo});
+  final List<TimeLineInfo> timeLineInfo;
+  const TimeLine({super.key, required this.timeLineInfo});
 
   @override
   Widget build(BuildContext context) {

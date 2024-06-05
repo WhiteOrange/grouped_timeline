@@ -11,7 +11,7 @@ A Flutter package grouped_timeline provide interactive timeline widget for your 
 
 ## Getting started
 
-flutter_timezone_name is basically an improved timeline package so you can just use as an TimeLine widget directly.
+grouped_timeline is basically an improved timeline package so you can just use as an TimeLine widget directly.
 
 ## Usage
 
