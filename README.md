@@ -7,6 +7,8 @@
 
 A Flutter package grouped_timeline provide interactive timeline widget for your Flutter project
 
+<img src="https://github.com/WhiteOrange/grouped_timeline/assets/162456479/40b3dd04-fdbd-46db-a641-3431effe86d7" alt="device-2024-03-07-164828" height="500">
+
 ## Getting started
 
 flutter_timezone_name is basically an improved timeline package so you can just use as an TimeLine widget directly.
